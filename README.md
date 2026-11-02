@@ -1,3 +1,5 @@
+> **已迁移 / Moved:** 此 mod 现统一维护于 [herdr-mods/copy-mode](https://github.com/ParadiseWitch/herdr-mods/tree/main/copy-mode)。请从新仓库安装和获取更新。
+
 # Copy Mode for Herdr
 
 Vim 风格终端复制模式：全键盘移动、智能大小写搜索、字符/整行选择，以及带标签的 **Jump 跳转模式**。
